@@ -130,16 +130,16 @@ body {
 
 
 /* Eat-together section */
-.eat-together-section {
+.eat-together {
   display: flex;
   justify-content: space-around;
   align-items: center;
   margin-bottom: 2rem;
 }
-.eat-together-section .left {
+.eat-together .left {
   width: 60%;
 }
-.eat-together-section .right-content {
+.eat-together .right-content {
   width: 29rem;
   text-align: center;
 }
