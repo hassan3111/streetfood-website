@@ -142,7 +142,7 @@ body {
   width: 29rem;
   text-align: center;
 }
-.eat-together-section .right-content h3 {
+.eat-together .right-content h3 {
   color: #eaab1b;
   letter-spacing: 2px;
 }
@@ -225,10 +225,11 @@ body {
 }
 /* contact section */
 .contact-section {
-  background-color: #ffd77c;
+  background-color: #FFD77C;
+  opacity: 0.4;
   text-align: center;
-  padding: 2rem;
-  margin-bottom: 2rem;
+  padding: 32px;
+  margin-bottom: 32px;
 }
 .contact-section p {
   width: 300px;
