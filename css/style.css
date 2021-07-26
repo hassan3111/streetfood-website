@@ -148,20 +148,7 @@ body {
   letter-spacing: 2px;
 }
 
-  eclipse{
-    background: #649549;
-    position: absolute;
-    width: 160px;
-    height: 80px;
-    left: 750px;
-    top: -300px;
-    border-radius: 50%;
-    opacity: 0.6;
-    padding: 310px;
-  }
   
-}
-
 /* menu section */
 .menu-section {
   background-color: #c9ecb5;
